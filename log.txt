@@ -1,0 +1,24 @@
+$ git log
+commit c4cbbcd410b7c230825795adf003423e475ca1ac (HEAD -> main)
+Author: KadissetouKoita <koita.kadissetou@gmail.com>
+Date:   Thu Nov 23 10:53:43 2023 +0100
+
+    Modification meteo
+
+commit 575dbeafc0be252357f40218f719c91c97ada4a2
+Author: KadissetouKoita <koita.kadissetou@gmail.com>
+Date:   Thu Nov 23 10:46:25 2023 +0100
+
+    Hello Word
+
+commit 2bda40cd6fb399912a15450a55303a5d4caacc1a
+Author: KadissetouKoita <koita.kadissetou@gmail.com>
+Date:   Thu Nov 23 10:40:13 2023 +0100
+
+    Creation du fichier readme
+
+commit 1a7f6e7e534502969137782759f13394fab82f83
+Author: KadissetouKoita <147699581+KadissetouKoita@users.noreply.github.com>
+Date:   Thu Nov 23 10:19:05 2023 +0100
+
+    Create anglais.txt
