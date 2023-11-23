@@ -1,0 +1,22 @@
+$ git reflog
+7c9757d (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: commit (merge): comit
+9ce72fc HEAD@{1}: commit: ajout log.txt
+c4cbbcd HEAD@{2}: checkout: moving from tobedeleted to main
+286d2c5 HEAD@{3}: commit: azerty
+c4cbbcd HEAD@{4}: checkout: moving from main to tobedeleted
+c4cbbcd HEAD@{5}: checkout: moving from tobedeleted to main
+c4cbbcd HEAD@{6}: checkout: moving from main to tobedeleted
+c4cbbcd HEAD@{7}: reset: moving to HEAD^
+1b0f8a8 (meteo) HEAD@{8}: checkout: moving from main to main
+1b0f8a8 (meteo) HEAD@{9}: checkout: moving from hobby to main
+7919678 (hobby) HEAD@{10}: commit: readme dans la branche hobby
+deff9ac HEAD@{11}: commit: Modification hobby
+1b0f8a8 (meteo) HEAD@{12}: checkout: moving from main to hobby
+1b0f8a8 (meteo) HEAD@{13}: merge meteo: Fast-forward
+575dbea HEAD@{14}: checkout: moving from meteo to main
+1b0f8a8 (meteo) HEAD@{15}: commit: readme dans la branche meteo
+c4cbbcd HEAD@{16}: commit: Modification meteo
+575dbea HEAD@{17}: checkout: moving from main to meteo
+575dbea HEAD@{18}: commit: Hello Word
+2bda40c HEAD@{19}: commit: Creation du fichier readme
+1a7f6e7 HEAD@{20}: clone: from https://github.com/KadissetouKoita/Controle.git
