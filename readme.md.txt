@@ -1,1 +1,1 @@
-Coucou
+print("Hello word")
